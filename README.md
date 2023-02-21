@@ -1,2 +1,2 @@
 # Certificados
-En este repositorio podrá encontrar mis certificados que comprueban mis conocimientos en ciertas areas.
+In this repository you will find my certificates that prove my knowledge in certain areas.
